@@ -1,0 +1,7 @@
+{
+	x, y, z: real;
+	x as y;
+	write(z,y);
+	write(x * 2 - 1010B);
+	x : integer;
+}

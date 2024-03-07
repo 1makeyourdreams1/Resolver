@@ -1,0 +1,26 @@
+{
+    x, y: integer;
+    z: real;
+    flag: boolean;
+
+    x as 546O;
+    y as 1e4bH;
+    z as 3.14;
+    flag as true;
+
+    for i as 1 to 5 do [ x as 123: read(x, y): y as 0
+];
+    write(i);
+
+    if x > 0 then 
+        write(flag)
+    else write(x);
+    
+
+    x as y = 15;
+
+    flag as (x <= 10) or (z > 2.0);
+
+    read(x, y, z);
+    write(x, y, z);
+}

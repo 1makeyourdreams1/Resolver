@@ -1,0 +1,15 @@
+{
+    a: integer;
+    b: integer;
+    c: integer;
+    d: boolean;
+    v: real;
+    l: integer;
+    read(l, a, b);
+    a as 10;
+    b as 5;
+    c as a * b / 2;
+    d as not (c <> 400O) or (a >= b);  /*sdfsdf we*sesdfmsdmfqsd03249 dfs3 sd*/
+    write(v, d);
+    v as 456.789e-012;
+} 
